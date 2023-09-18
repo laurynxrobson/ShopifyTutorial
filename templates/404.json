@@ -1,7 +1,7 @@
 {
    "name": "Template 404",
    "sections": {
-      "Template":{
+      "template":{
          "type": "template-404"
       }
    },
